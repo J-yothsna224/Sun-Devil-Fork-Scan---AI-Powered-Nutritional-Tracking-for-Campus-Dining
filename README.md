@@ -1,0 +1,2 @@
+# Sun-Devil-Fork-Scan---AI-Powered-Nutritional-Tracking-for-Campus-Dining
+Developed an AI-powered solution to estimate calories in ASU dining hall meals, promoting healthier eating habits and supporting campus wellness initiatives. The system delivers real-time food insights to empower data-driven decisions for Sun Devil Hospitality and lays the groundwork for future mobile app deployment and campus-wide integration.
